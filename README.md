@@ -1,4 +1,4 @@
-Here’s a README.md content draft for your "Java-8-Playground" GitHub repository summarizing the main purposes and features of Java 8, with clarity for beginners and interview prep:
+Here’s a README.md content draft for your "Java-8-Playground" GitHub repository summarizing the main purposes and features of Java 8:
 
 ***
 
