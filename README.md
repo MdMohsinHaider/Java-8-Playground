@@ -22,7 +22,7 @@ Java 8 marked a revolution for Java developers, bringing functional programming 
 - **Default and Static Methods in Interfaces**: Add new methods to interfaces without breaking existing code.[3]
 - **New Date & Time API**: More consistent and user-friendly time/date handling.[6][3]
 - **Method References**: Concise way to refer to existing methods using ::
-- **Optional Class**: Avoid null pointer exceptions with this new container class.
+- **OptionalClass Class**: Avoid null pointer exceptions with this new container class.
 
 ## Why Use Java 8?
 
